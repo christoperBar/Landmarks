@@ -15,7 +15,6 @@ struct HexagonParameters {
         let control: CGPoint
     }
 
-
     static let adjustment: CGFloat = 0.085
 
 
